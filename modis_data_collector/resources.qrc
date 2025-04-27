@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/MODIS_data_collector" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
