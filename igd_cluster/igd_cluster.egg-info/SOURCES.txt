@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+igd_cluster/__init__.py
+igd_cluster/assets.py
+igd_cluster.egg-info/PKG-INFO
+igd_cluster.egg-info/SOURCES.txt
+igd_cluster.egg-info/dependency_links.txt
+igd_cluster.egg-info/requires.txt
+igd_cluster.egg-info/top_level.txt
