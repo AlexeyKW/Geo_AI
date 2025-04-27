@@ -1,0 +1,5 @@
+spacy
+uvicorn
+fastapi
+pydantic
+geopy
